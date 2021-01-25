@@ -19,8 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - [flutter_bloc: ^6.1.1](https://pub.dev/packages/equatable)
 - [equatable: ^1.2.5](https://pub.dev/packages/flutter_bloc)
+
 # dir explanation 
-lib/pages 
- -for pages, service Bloc
-lib/data
- -Bloc observer boiler, Model that will use everywhere
+- `lib/pages` for pages, service Bloc
+- `lib/data` Bloc observer boiler, Model that will use everywhere
