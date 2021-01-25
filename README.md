@@ -1,6 +1,6 @@
 # music_app
 
-A new Flutter project.
+Music App 
 
 ## Getting Started
 
@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#  depedencies added
+
+- [flutter_bloc: ^6.1.1](https://pub.dev/packages/equatable)
+- [equatable: ^1.2.5](https://pub.dev/packages/flutter_bloc)
+# dir explanation 
+lib/pages 
+ -for pages, service Bloc
+lib/data
+ -Bloc observer boiler, Model that will use everywhere
